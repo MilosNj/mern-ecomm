@@ -83,10 +83,6 @@ This project is a basic eCommerce application with product management functional
 - `PATCH /api/products/:id`: Update a product
 - `DELETE /api/products/:id`: Delete a product
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 
 This project is licensed under the MIT License.
