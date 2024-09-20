@@ -1,6 +1,6 @@
-# Simple eCommerce App
+# Simple eCommerce Admin App
 
-This project is a basic eCommerce application with product management functionality. It allows users to add, delete, edit, and view products.
+This project is a basic eCommerce admin application with product management functionality. It allows users to add, delete, edit, and view products.
 
 ## Features
 
