@@ -55,7 +55,7 @@ This project is a basic eCommerce admin application with product management func
    ```
 
 3. Set up environment variables:
-   Create a `.env` file in the backend directory with the following content:
+   Create a `.env` file in the root directory with the following content:
    ```
    MONGO_URI=your_mongodb_connection_string
    PORT=5050
