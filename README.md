@@ -70,7 +70,7 @@ This project is a basic eCommerce admin application with product management func
 
 2. In a new terminal, start the frontend development server:
    ```
-   cd frontend
+   cd frontend/
    npm run dev
    ```
 
